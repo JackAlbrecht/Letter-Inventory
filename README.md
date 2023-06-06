@@ -3,7 +3,7 @@ Letter Inventory is a program to demonstrate classes and arrays. This allows us 
 
 This program uses 2 classes:
 - LetterInventory: This holds all the necessary methods to rearrange the letters, put two words together, and even subtract two words.
-- LetterInventoryMain: This is the main method, I put this outside of the LetterInventory class because we can still use all methods of LetterInventory class without being within the class.
+- LetterInventoryMain: This is the main method, I put this outside of the LetterInventory class to demonstrate that we can still use all methods of LetterInventory class without being within the class.
 
 In this way we are able to rearrange letters based on the ASCII number away from 'a' of each letter, to rearrange all words to a-z format.
 
