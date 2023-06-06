@@ -1,5 +1,5 @@
 # Letter-Inventory
-Letter Inventory is a program to demonstrate a classes and arrays. This allows us to use the ASCII rankings of the alphabet to rearrange words to be in a-z format.
+Letter Inventory is a program to demonstrate classes and arrays. This allows us to use the ASCII rankings of the alphabet to rearrange words to be in a-z format.
 
 This program uses 2 classes:
 - LetterInventory: This holds all the necessary methods to rearrange the letters, put two words together, and even subtract two words.
